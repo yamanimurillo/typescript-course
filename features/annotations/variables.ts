@@ -42,4 +42,5 @@ const logNumber: (i: number) => void = (i: number) => {
 // When to use annotations 
 
 const json = '{"x": 1, "y": 2}';
+
 const coordinates = JSON.parse(json);
